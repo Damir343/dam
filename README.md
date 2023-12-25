@@ -1,0 +1,1 @@
+c PNG в ICO
